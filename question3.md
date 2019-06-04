@@ -2,4 +2,4 @@
 
 [Anser][1]
 
-[1]: https://github.com/ryotogashi/class-material-github/answer3.md
+[1]: https://github.com/ryotogashi/class-material-github/blob/master/answer3.md

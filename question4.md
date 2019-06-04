@@ -6,5 +6,5 @@
 
 [Anser][2]
 
-[1]: https://github.com/ryotogashi/class-material-github/question4/README.md
-[2]: https://github.com/ryotogashi/class-material-github/answer4.md
+[1]: https://github.com/ryotogashi/class-material-github/blob/master/question4/README.md
+[2]: https://github.com/ryotogashi/class-material-github/blob/master/answer4.md
