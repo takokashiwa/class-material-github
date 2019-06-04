@@ -6,13 +6,16 @@
 1.ターミナルからブランチを作成、Masterから作成したbranchにきりかえる。
 
  `git branch <ブランチ名>`
+ 
  `git checkout <ブランチ名>`
 
 
 2.ファイルを修正し保存した後、ターミナルからgitにadd、commitし、リモートの新規ブランチにpushする。
 
  `git add .`
+ 
  `git commit -m "<コミットメッセージ>"`
+ 
  `git push origin <ブランチ名>`
  
 
@@ -23,5 +26,7 @@
 
 
 5.ターミナル上でブランチをmasterにきりかえ、リモートのmasterデータをpullしてローカルのmasterブランチを最新の状態にする。
+  
   `git checkout master`
+  
   `git pull origin master`
