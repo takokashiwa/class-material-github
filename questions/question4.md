@@ -7,4 +7,4 @@
 [Anser][2]
 
 [1]: https://github.com/ryotogashi/class-material-github/blob/master/questions/question4/README.md
-[2]: https://github.com/ryotogashi/class-material-github/blob/master/answer4.md
+[2]: https://github.com/ryotogashi/class-material-github/blob/master/answers/answer4.md
