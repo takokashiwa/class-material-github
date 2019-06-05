@@ -4,9 +4,9 @@
 
 1. ターミナルからブランチを作成、Masterから作成したbranchにきりかえる。
 
- `git branch <ブランチ名>`
+  `git branch <ブランチ名>`
  
- `git checkout <ブランチ名>`
+  `git checkout <ブランチ名>`
  
 2. Github上のリモートリポジトリに移動。README.mdファイル表示の右側にあるペンタブアイコンをクリックし、ファイルを修正した後、下部にある Commit directly to the master branch.　のラジオボタンにチェックをいれCommit changesボタンを押す。 
 
