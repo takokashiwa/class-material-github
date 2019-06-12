@@ -1,12 +1,12 @@
 
 def add(x, y):
     # change None to add x and y
-    return None
+    return x + y
 
 
 def substract(x, y):
     # change None to substract x and y
-    return None
+    return x - y
 
 
 def multiple(x, y):
